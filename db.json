@@ -4,7 +4,50 @@
     "descricao": "Estudante do curso de ciência da computação na Puc",
     "imagem": "Img/LucasLa.jpg"
   },
-  "repositorios": [],
+  "repositorios": [
+    {
+      "id": 1,
+      "titulo": "Trabalho-10-pts",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    },
+    {
+      "id": 2,
+      "titulo": "TRABALHO",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    },
+    {
+      "id": 3,
+      "titulo": "TI12junho",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    },
+    {
+      "id": 4,
+      "titulo": "TI-19-de-maio",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    },
+    {
+      "id": 5,
+      "titulo": "DiwTrabalho2",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    },
+    {
+      "id": 6,
+      "titulo": "DIW2",
+      "descricao": "",
+      "urlCapa": "",
+      "urlConteudo": ""
+    }
+  ],
   "albuns": [
     {
       "id": 1,
@@ -65,4 +108,5 @@
 }
 
 
-  
+
+
