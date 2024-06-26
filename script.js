@@ -5,7 +5,7 @@ const colleaguesContainer = document.querySelector('#secao4 .row');
 
 // Função para buscar dados do perfil do JSON Server
 function getProfile() {
-    fetch('http://localhost:3000/perfil')
+    fetch('http://localhost:4000/perfil')
     .then(async res => {
         if (!res.ok) {
             throw new Error(res.status);
@@ -46,7 +46,7 @@ function getApiGitHub() {
 
 // Função para buscar conteúdos do JSON Server
 function getContents() {
-    fetch('http://localhost:3000/albuns')
+    fetch('http://localhost:4000/albuns')
     .then(async res => {
         if (!res.ok) {
             throw new Error(res.status);
@@ -64,9 +64,9 @@ function getContents() {
             carouselItem.classList.add('carousel-item');
             if (index === 0) carouselItem.classList.add('active');
             carouselItem.innerHTML = `
-            <img src="${content.image}" class="d-block w-100" alt="${content.title}">
+            <img src="${content.urlCapa}" class="d-block w-100" alt="${content.titulo}">
             <div class="carousel-caption d-none d-md-block">
-                <h5>${content.title}</h5>
+                <h5>${content.titulo}</h5>
             </div>`;
             carouselInner.appendChild(carouselItem);
         });
@@ -76,7 +76,7 @@ function getContents() {
 
 // Função para buscar colegas do JSON Server
 function getColleagues() {
-    fetch('http://localhost:3000/colegas')
+    fetch('http://localhost:4000/colegas')
     .then(async res => {
         if (!res.ok) {
             throw new Error(res.status);
@@ -106,4 +106,5 @@ document.addEventListener('DOMContentLoaded', () => {
     getContents();
     getColleagues();
 });
+
 
