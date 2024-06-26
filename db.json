@@ -8,101 +8,81 @@
     {
       "id": 1,
       "titulo": "Trabalho-10-pts",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/Trabalho-10-pts"
     },
     {
       "id": 2,
       "titulo": "TRABALHO",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/TRABALHO"
     },
     {
       "id": 3,
       "titulo": "TI12junho",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/TI12junho"
     },
     {
       "id": 4,
       "titulo": "TI-19-de-maio",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/TI-19-de-maio"
     },
     {
       "id": 5,
       "titulo": "DiwTrabalho2",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/DiwTrabalho2"
     },
     {
       "id": 6,
       "titulo": "DIW2",
-      "descricao": "",
-      "urlCapa": "",
-      "urlConteudo": ""
+      "url": "https://github.com/lucaszanfa/DIW2"
     }
   ],
   "albuns": [
     {
       "id": 1,
       "titulo": "Counter Strike 2",
-      "descricao": "",
-      "urlCapa": "Img/CS.jpg",
-      "urlConteudo": ""
+      "urlCapa": "Img/CS.jpg"
     },
     {
       "id": 2,
       "titulo": "Atlético Mg",
       "descricao": "",
-      "urlCapa": "Img/Galo.jpg",
-      "urlConteudo": ""
+      "urlCapa": "Img/Galo.jpg"
     },
     {
       "id": 3,
       "titulo": "Los Angeles",
-      "descricao": "",
-      "urlCapa": "Img/la.jpg",
-      "urlConteudo": ""
+      "urlCapa": "Img/la.jpg"
     },
     {
       "id": 4,
       "titulo": "Real Madrid",
-      "descricao": "",
-      "urlCapa": "Img/real.png",
-      "urlConteudo": ""
+      "urlCapa": "Img/real.png"
+
     },
     {
       "id": 5,
       "titulo": "Golden State Warriors",
-      "descricao": "",
-      "urlCapa": "Img/warriors.png",
-      "urlConteudo": ""
+      "urlCapa": "Img/warriors.png"
     }
   ],
   "colleagues": [
     {
       "id": 1,
-      "image": "Img/cristianoronaldo.jpg",
-      "name": "Cristiano Ronaldo",
-      "github": ""
+      "image": "Img/colega1.jpg",
+      "name": "Gabriel Diniz",
+      "github": "https://github.com/ygabsxw"
     },
     {
       "id": 2,
-      "image": "Img/Neymar.jpg",
-      "name": "Neymar",
-      "github": ""
+      "image": "Img/colega2.jpg",
+      "name": "Gustavo Mariano",
+      "github": "https://github.com/syterzin"
     },
     {
       "id": 3,
-      "image": "Img/messi.jpg",
-      "name": "Lionel Messi",
-      "github": ""
+      "image": "Img/colega3.jpg",
+      "name": "Marcos Vicenzo",
+      "github": "https://github.com/VBorello"
     }
   ]
 }
